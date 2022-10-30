@@ -1,0 +1,16 @@
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.exe
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.deps.json
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.runtimeconfig.json
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.runtimeconfig.dev.json
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.dll
+C:\Users\tolik\source\repos\LogicWaggon\bin\Debug\net5.0\LogicWaggon.pdb
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.csproj.AssemblyReference.cache
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.AssemblyInfoInputs.cache
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.AssemblyInfo.cs
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.dll
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\refint\LogicWaggon.dll
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.pdb
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\LogicWaggon.genruntimeconfig.cache
+C:\Users\tolik\source\repos\LogicWaggon\obj\Debug\net5.0\ref\LogicWaggon.dll
